@@ -1,1 +1,10 @@
-{"webcredentials":{"apps":["27PWC9542F.csm.pdm.enterprise"]}}
+{
+
+    "applinks": {
+                "apps": [],
+                "details": [{
+                    "appID": "GA58J6E3GL.com.mrl.fox.pdm",
+                    "paths": ["*"]
+                }]
+            }
+}
